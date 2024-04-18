@@ -5,7 +5,7 @@
 # Script Name: EasyRSAGUI.bash
 # Purpose: This script helps to use Easy-RSA with a GUI (with dialog command)
 # Dependencies: Easy-RSA (GPLv2), dialog (LGPL)
-# Author: Daniel Butz
+# Author: DannyManual
 # Created: 2024-04-15
 # Last modified: 2024-04-15
 # Version: 1.0.0
